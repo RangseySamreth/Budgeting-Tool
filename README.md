@@ -36,7 +36,27 @@ expenses, and check the remaining balance.
 1. Enter a Daily Spending Limit. 
 2. Click Set Limit to apply the changes. 
 3. Input Spending Amount and select a category. 
-4. Click Track Spending to log expenses. 
+4. Click Track Spending to log expenses.
+## Bill Payment 
+- Manage monthly bills for utilities, rent, and other expenses.
+- Features: 
+○ Enter Income: Define total monthly income. 
+○ Input Bill Amounts: Add details for electricity, water, and rent bills. 
+○ Pay Bills: Update the balance after bill payments. 
+# Steps to Pay Bills: 
+1. Enter Total Monthly Income and click Update Balance. 
+2. Input Bill Amounts (Energy, Water, Rent, etc.). 
+3. Click Pay Bills to update records. 
+## Security & Encryption 
+- All sensitive data, including passwords and financial balances, are encrypted before 
+being stored in the database. 
+- The app does not display plaintext passwords or balances, ensuring user privacy and 
+security. 
+## Troubleshooting 
+Common Issues & Solutions 
+● Forgot Password: Contact support to reset your credentials. 
+● Incorrect Spending Calculation: Ensure correct values are entered. 
+● Application Not Responding: Restart the app or check for updates.
 ## System Requirements
 To develop and run this project, ensure your system meets the following requirements: 
 - Operating System: Windows / macOS / Linux 
@@ -79,7 +99,7 @@ Once the project is cloned, install necessary dependencies using Maven:
 The project uses an SQLite database to store user information, budget data, and transactions.
 # Table 
 Budgeting - Stores user credentials and balance. 
-##Data Structure 
+## Data Structure 
 The application follows a Model-View-Controller (MVC) architecture: 
 - Model: Handles data and database interactions.
 - View: Manages the UI components.
@@ -91,3 +111,8 @@ The application follows a Model-View-Controller (MVC) architecture:
 - LoginController.java: Manages user authentication.
 - BudgetController.java: Handles budgeting functionalities.
 - PayBillsController.java: Handles paying bills functionalities. 
+## Conclusion 
+This guide provides a comprehensive setup and development process for new team members. 
+Follow the instructions to set up, develop, and maintain the Budgeting Tool project efficiently.
+##  Contact Support 
+For issues, suggestions, or feedback, click the Report button in github.
