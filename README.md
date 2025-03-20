@@ -85,8 +85,8 @@ https://github.com/RangseySamreth/Budgeting-Tool_Group5.git
 1. Go to the repository on GitHub. 
 2. Navigate to Settings > Collaborators. 
 3. Add teammates using their GitHub usernames. 
-## Setup and Compilation 
-# Installing Dependencies 
+# Setup and Compilation 
+## Installing Dependencies 
 Once the project is cloned, install necessary dependencies using Maven: 
 1. Open IntelliJ IDEA. 
 2. Go to View > Tool Windows > Maven. 
