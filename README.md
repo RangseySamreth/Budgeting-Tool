@@ -18,8 +18,8 @@ handling by encrypting sensitive information such as passwords and balances in t
 # Login & Account Selection 
 ## Login Screen 
 - The ChoiceBox contains two options: 
-  ○ Existing User: Login with an existing account. 
-  ○ New User: Register a new account before logging in. 
+  . Existing User: Login with an existing account.
+  . New User: Register a new account before logging in. 
 - User credentials are securely stored using encryption, ensuring passwords and financial data remain protected. 
 ## Steps to Login: 
 1. Select Existing User or New User from the dropdown menu. 
@@ -29,9 +29,9 @@ handling by encrypting sensitive information such as passwords and balances in t
 - The Budget Management Screen allows users to set a daily spending limit, track 
 expenses, and check the remaining balance. 
 - Features: 
-○ Set Daily Limit: Define your spending cap. 
-○ Track Spending: Record transactions under different categories. 
-○ View Remaining Balance: Check your financial status.
+  - Set Daily Limit: Define your spending cap.
+  - Track Spending: Record transactions under different categories.
+  - View Remaining Balance: Check your financial status.
 ## Steps to Set Budget:
 1. Enter a Daily Spending Limit. 
 2. Click Set Limit to apply the changes. 
@@ -40,9 +40,9 @@ expenses, and check the remaining balance.
 # Bill Payment 
 - Manage monthly bills for utilities, rent, and other expenses.
 - Features: 
-○ Enter Income: Define total monthly income. 
-○ Input Bill Amounts: Add details for electricity, water, and rent bills. 
-○ Pay Bills: Update the balance after bill payments. 
+  - Enter Income: Define total monthly income.
+  - Input Bill Amounts: Add details for electricity, water, and rent bills.
+  - Pay Bills: Update the balance after bill payments. 
 ## Steps to Pay Bills: 
 1. Enter Total Monthly Income and click Update Balance. 
 2. Input Bill Amounts (Energy, Water, Rent, etc.). 
@@ -64,15 +64,15 @@ To develop and run this project, ensure your system meets the following requirem
 - Build Tool: Maven 
 - Database: SQLite 
 - Java Version: Java 17+ 
-- Dependencies: 
-○ JavaFX (UI framework) 
-○ SQLite JDBC (Database connection) 
-○ JFoenix (Material UI components) 
-○ Ikonli (Icon library) 
-○ JUnit 5 (Unit testing framework) 
+- Dependencies:
+    - JavaFX (UI framework)
+    - SQLite JDBC (Database connection)
+    - JFoenix (Material UI components)
+    - Ikonli (Icon library)
+    - JUnit 5 (Unit testing framework) 
 - Hardware Requirements: 
-○ RAM: 4GB minimum (8GB+ recommended) 
-○ SSD: 10GB free space
+    - RAM: 4GB minimum (8GB+ recommended)
+    - SSD: 10GB free space
 # Getting the Source Code 
 To collaborate on this project, clone the repository from GitHub and set up access:
 ## Steps to Clone the Repository: 
