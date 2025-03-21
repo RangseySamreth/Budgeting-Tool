@@ -49,8 +49,7 @@ expenses, and check the remaining balance.
 3. Click Pay Bills to update records. 
 # Security & Encryption 
 - Passwords are encrypted.
-- The app does not display plaintext passwords or balances, ensuring user privacy and 
-security. 
+- The app does not display plaintext passwords, ensuring user privacy and security. 
 # Troubleshooting 
 Common Issues & Solutions 
 ● Forgot Password: Contact support to reset your credentials. 
