@@ -18,8 +18,8 @@ handling by encrypting sensitive information such as passwords and balances in t
 # Login & Account Selection 
 ## Login Screen 
 - The ChoiceBox contains two options: 
-  . Existing User: Login with an existing account.
-  . New User: Register a new account before logging in. 
+  - Existing User: Login with an existing account.
+  - New User: Register a new account before logging in. 
 - User credentials are securely stored using encryption, ensuring passwords and financial data remain protected. 
 ## Steps to Login: 
 1. Select Existing User or New User from the dropdown menu. 
@@ -95,7 +95,7 @@ Once the project is cloned, install necessary dependencies using Maven:
 1. Navigate to src/main/java/com/budgeting/tool/Main.java. 
 2. Click Run to start the application.
 # Database Structure 
-The project uses an SQLite database to store user information, budget data, and transactions.
+The project uses an SQLite database to store user information, and budget data.
 ## Table 
 Budgeting - Stores user credentials and balance. 
 # Data Structure 
