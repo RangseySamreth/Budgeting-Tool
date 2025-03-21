@@ -48,8 +48,7 @@ expenses, and check the remaining balance.
 2. Input Bill Amounts (Energy, Water, Rent, etc.). 
 3. Click Pay Bills to update records. 
 # Security & Encryption 
-- All sensitive data, including passwords and financial balances, are encrypted before 
-being stored in the database. 
+- Passwords are encrypted.
 - The app does not display plaintext passwords or balances, ensuring user privacy and 
 security. 
 # Troubleshooting 
